@@ -3,11 +3,9 @@
 // Copy variables from `_variables.scss` to this file to override default values
 // without modifying source files.
 
-$font-family-cursive: 'Baloo';
-$font-family-sans-serif: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-$font-family-serif:      Georgia, "Times New Roman", Times, serif;
-$font-family-monospace:  Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-$font-family-base: $font-family-cursive;
+$gray-dark: #292b2c;
+$pink:   #ff5b77;
+$body-bg: $pink;
 
+$jumbotron-padding: 1rem;
 
-$font-weight-bold: 200;
